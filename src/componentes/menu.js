@@ -33,7 +33,7 @@ export default function Navbar({ fixed }) {
               <li className="nav-item">
               <button
                 className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white text-lg hover:opacity-75"
-                onClick=""
+                
               >
                 Productos
               </button>
@@ -42,7 +42,7 @@ export default function Navbar({ fixed }) {
               <li className="nav-item">
               <button
                 className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white text-lg hover:opacity-75"
-                onClick=""
+                
               >
                 Contáctanos
               </button>
@@ -51,7 +51,7 @@ export default function Navbar({ fixed }) {
               <li className="nav-item">
               <button
                 className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white text-lg hover:opacity-75"
-                onClick=""
+                
               >
                 Sobre nosotros
               </button>
