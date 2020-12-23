@@ -7,20 +7,22 @@ export default function Footer({ fixed }) {
             <div className="container mx-auto px-6 sm:flex">
                 <div className="sm:flex sm:mt-8">
                     <div className="mt-8 sm:mt-0 sm:w-full sm:px-8 flex flex-col justify-between">
-                    <span className="font-bold text-gray-700 uppercase mb-2">Info</span>
-                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">Preguntas frecuentes</a></span>
-                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">Contactanos</a></span>
-                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">Terminos y condiciones</a></span>
-                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">Aviso legal</a></span>
+                        <span className="font-bold text-gray-700 uppercase mb-2">Info</span>
+                        <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">Preguntas frecuentes</a></span>
+                        <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">Contáctanos</a></span>
+                        <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">Terminos y condiciones</a></span>
+                        <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">Aviso legal</a></span>
                     </div>
                 </div>
-                <div className="sm:flex sm:mt-8">
-                    <div className="mt-8 sm:mt-0 sm:w-full sm:px-8 flex flex-col justify-between">
-                    <span className="font-bold text-gray-700 uppercase mb-2">Redes Sociales</span>
-                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500 fab fa-facebook"></a></span>
-                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500 fab fa-twitter"></a></span>
-                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500 fab fa-pinterest"></a></span>
-                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500 fab fa-instagram"></a></span>
+                <div className="sm:flex sm:mt-8 ">
+                    <div className="mt-8 sm:mt-0 sm:w-full sm:px-8 flex flex-col">
+                        <span className="font-bold text-gray-700 uppercase mb-2">Redes Sociales</span>
+                        <div className="flex justify-around">
+                            <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500 fab fa-facebook"> </a></span>
+                            <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500 fab fa-twitter"> </a></span>
+                            <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500 fab fa-pinterest"> </a></span>
+                            <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500 fab fa-instagram"> </a></span>
+                        </div>
                     </div>
                 </div>
             </div>
