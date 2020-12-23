@@ -8,8 +8,10 @@ export default function Footer({ fixed }) {
                 <div className="sm:flex sm:mt-8">
                     <div className="mt-8 sm:mt-0 sm:w-full sm:px-8 flex flex-col justify-between">
                     <span className="font-bold text-gray-700 uppercase mb-2">Info</span>
-                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">FAQ</a></span>
-                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">De donde somos</a></span>
+                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">Preguntas frecuentes</a></span>
+                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">Contactanos</a></span>
+                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">Terminos y condiciones</a></span>
+                    <span className="my-2"><a href="https://www.google.es" class="text-pink-700  text-md hover:text-pink-500">Aviso legal</a></span>
                     </div>
                 </div>
                 <div className="sm:flex sm:mt-8">
@@ -26,7 +28,7 @@ export default function Footer({ fixed }) {
                 <div className="mt-16 border-t-2 border-gray-300 flex flex-col items-center">
                     <div className="sm:w-2/3 text-center py-6">
                         <p className="text-sm text-pink-700 font-bold mb-2">
-                            © 2020 by Anini
+                            Anini © 2020 
                         </p>
                     </div>
                 </div>
